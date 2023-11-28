@@ -13,3 +13,9 @@
 ```javascript
 const strValue: string = "this is a string variable that will not be edited"
 ```
+
+
+- [ ] Turn on Github pages
+- [ ] Outline my portfolio
+- [ ] Introduce  myself to the world
+ 
